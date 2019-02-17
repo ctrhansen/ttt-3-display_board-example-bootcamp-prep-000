@@ -1,8 +1,8 @@
 def display_board
-  puts row = ["   ","   |   ","   ","   |   ","   "]
+  print row = ["   ","   |   ","   ","   |   ","   "]
   puts row = ["-----------"]
-  puts row = ["   ","   |   ","   ","   |   ","   "]
+  print row = ["   ","   |   ","   ","   |   ","   "]
   puts row = ["-----------"]
-  puts row = ["   ","   |   ","   ","   |   ","   "]
+  print row = ["   ","   |   ","   ","   |   ","   "]
   
 end
