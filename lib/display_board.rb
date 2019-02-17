@@ -1,9 +1,9 @@
 def display_board
-  puts row = ["   ","   |   ","   |   ","   "]
-  puts row = ["-----------"]
-  puts row = ["   ","   |   ","   |   ","   "]
-  puts row = ["-----------"]
-  puts row = ["   ","   |   ","   |   ","   "]
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
   
 end
 
